@@ -1,0 +1,14 @@
+/home/naszta/Projects/dotnet/packt-c71c/Ch12/LinqWithXML/bin/Debug/netcoreapp2.2/LinqWithXML.deps.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch12/LinqWithXML/bin/Debug/netcoreapp2.2/LinqWithXML.runtimeconfig.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch12/LinqWithXML/bin/Debug/netcoreapp2.2/LinqWithXML.runtimeconfig.dev.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch12/LinqWithXML/bin/Debug/netcoreapp2.2/LinqWithXML.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch12/LinqWithXML/bin/Debug/netcoreapp2.2/LinqWithXML.pdb
+/home/naszta/Projects/dotnet/packt-c71c/Ch12/LinqWithXML/bin/Debug/netcoreapp2.2/PacktPub.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch12/LinqWithXML/bin/Debug/netcoreapp2.2/PacktPub.pdb
+/home/naszta/Projects/dotnet/packt-c71c/Ch12/LinqWithXML/obj/Debug/netcoreapp2.2/LinqWithXML.csprojAssemblyReference.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch12/LinqWithXML/obj/Debug/netcoreapp2.2/LinqWithXML.csproj.CoreCompileInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch12/LinqWithXML/obj/Debug/netcoreapp2.2/LinqWithXML.AssemblyInfoInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch12/LinqWithXML/obj/Debug/netcoreapp2.2/LinqWithXML.AssemblyInfo.cs
+/home/naszta/Projects/dotnet/packt-c71c/Ch12/LinqWithXML/obj/Debug/netcoreapp2.2/LinqWithXML.csproj.CopyComplete
+/home/naszta/Projects/dotnet/packt-c71c/Ch12/LinqWithXML/obj/Debug/netcoreapp2.2/LinqWithXML.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch12/LinqWithXML/obj/Debug/netcoreapp2.2/LinqWithXML.pdb

@@ -55,6 +55,19 @@
           </e>
         </e>
       </e>
+      <e p="LinqWithXML" t="IncludeRecursive">
+        <e p="LinqWithXML.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="LinqWithXML.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="settings.xml" t="Include" />
+      </e>
       <e p="PacktPub" t="IncludeRecursive">
         <e p="Category.cs" t="Include" />
         <e p="ConsoleLogger.cs" t="Include" />

@@ -2,16 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc5f12c8-3ded-4c59-8e08-4be0a691764c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LINQingInParallel/LINQingInParallel.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LINQingInParallel/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LINQingInParallel/obj/Debug/netcoreapp2.2/LINQingInParallel.AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LINQingInParallel/obj/Debug/netcoreapp2.2/LINQingInParallel.AssemblyInfoInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LINQingInParallel/obj/Debug/netcoreapp2.2/LINQingInParallel.assets.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LINQingInParallel/obj/LINQingInParallel.csproj.nuget.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LINQingInParallel/obj/LINQingInParallel.csproj.nuget.g.props" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LINQingInParallel/obj/LINQingInParallel.csproj.nuget.g.targets" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LINQingInParallel/obj/project.assets.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LINQingInParallel/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinqWithXML/LinqWithXML.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinqWithXML/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinqWithXML/bin/Debug/netcoreapp2.2/LinqWithXML.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinqWithXML/bin/Debug/netcoreapp2.2/LinqWithXML.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinqWithXML/bin/Debug/netcoreapp2.2/LinqWithXML.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinqWithXML/bin/Debug/netcoreapp2.2/LinqWithXML.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinqWithXML/bin/Debug/netcoreapp2.2/LinqWithXML.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinqWithXML/bin/Debug/netcoreapp2.2/PacktPub.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinqWithXML/bin/Debug/netcoreapp2.2/PacktPub.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinqWithXML/obj/Debug/netcoreapp2.2/LinqWithXML.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinqWithXML/obj/Debug/netcoreapp2.2/LinqWithXML.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinqWithXML/obj/Debug/netcoreapp2.2/LinqWithXML.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinqWithXML/obj/Debug/netcoreapp2.2/LinqWithXML.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinqWithXML/obj/Debug/netcoreapp2.2/LinqWithXML.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinqWithXML/obj/Debug/netcoreapp2.2/LinqWithXML.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinqWithXML/obj/Debug/netcoreapp2.2/LinqWithXML.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinqWithXML/obj/Debug/netcoreapp2.2/LinqWithXML.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinqWithXML/obj/Debug/netcoreapp2.2/LinqWithXML.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinqWithXML/obj/LinqWithXML.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinqWithXML/obj/LinqWithXML.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinqWithXML/obj/LinqWithXML.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinqWithXML/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinqWithXML/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinqWithXML/settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Ch12/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Ch12/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Ch12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Ch12/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ch12.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Ch12.sln" afterDir="false" />
@@ -45,7 +59,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LINQingInParallel/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -56,6 +70,35 @@
                 <marker date="1546876657049" expanded="true" signature="170:653" ph="{...}" />
                 <marker date="1546876657049" expanded="true" signature="216:647" ph="{...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LinqWithXML/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="38" column="28" lean-forward="true" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+              <folding>
+                <marker date="1546877687020" expanded="true" signature="6:101" ph="..." />
+                <marker date="1546877687020" expanded="true" signature="124:1438" ph="{...}" />
+                <marker date="1546877687020" expanded="true" signature="144:1436" ph="{...}" />
+                <marker date="1546877687020" expanded="true" signature="190:728" ph="{...}" />
+                <marker date="1546877687020" expanded="true" signature="245:718" ph="{...}" />
+                <marker date="1546877687020" expanded="true" signature="771:1306" ph="{...}" />
+                <marker date="1546877687020" expanded="true" signature="995:1130" ph="{...}" />
+                <marker date="1546877687020" expanded="true" signature="1209:1295" ph="{...}" />
+                <marker date="1546877687020" expanded="true" signature="1355:1430" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LinqWithXML/settings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -81,8 +124,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LinqWithEFCore/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="94" column="13" selection-start-line="94" selection-start-column="13" selection-end-line="94" selection-end-column="13" />
+            <state relative-caret-position="143">
+              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="29" selection-end-column="13" />
               <folding>
                 <marker date="1546875907529" expanded="true" signature="6:101" ph="..." />
                 <marker date="1546875907529" expanded="true" signature="127:4280" ph="{...}" />
@@ -145,6 +188,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/LinqWithSets/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/LinqWithEFCore/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LinqWithXML/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/LinqWithArrayOfStrings/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PacktPub/Category.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PacktPub/Product.cs" root0="FORCE_HIGHLIGHTING" />
@@ -159,6 +203,9 @@
         <option value="$PROJECT_DIR$/LinqWithEFCore/Program.cs" />
         <option value="$PROJECT_DIR$/LinqWithArrayOfStrings/Program.cs" />
         <option value="$PROJECT_DIR$/LINQingInParallel/Program.cs" />
+        <option value="$PROJECT_DIR$/LinqWithEFCore/MyLINQExtensions.cs" />
+        <option value="$PROJECT_DIR$/LinqWithXML/settings.xml" />
+        <option value="$PROJECT_DIR$/LinqWithXML/Program.cs" />
       </list>
     </option>
   </component>
@@ -184,17 +231,12 @@
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="Ch12" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="LINQingInParallel" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Ch12" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="LinqWithArrayOfStrings" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Ch12" type="24d0babc:SolutionExplorerModelNode" />
               <item name="LinqWithEFCore" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Ch12" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="LinqWithXML" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
@@ -225,7 +267,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Project.LINQingInParallel">
+  <component name="RunManager" selected=".NET Project.LinqWithXML">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/LinqWithArrayOfStrings/bin/Debug/netcoreapp2.2/LinqWithArrayOfStrings.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -303,8 +345,27 @@
         <option name="Build" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LinqWithXML" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/LinqWithXML/bin/Debug/netcoreapp2.2/LinqWithXML.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinqWithXML" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/LinqWithXML/LinqWithXML.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue=".NET Project.LinqWithXML" />
         <item itemvalue=".NET Project.LINQingInParallel" />
         <item itemvalue=".NET Project.LinqWithEFCore" />
         <item itemvalue=".NET Project.LinqWithSets" />
@@ -322,7 +383,7 @@
       <option name="presentableId" value="Default" />
       <updated>1546863501748</updated>
       <workItem from="1546863503077" duration="3317000" />
-      <workItem from="1546871625514" duration="3701000" />
+      <workItem from="1546871625514" duration="4737000" />
     </task>
     <task id="LOCAL-00001" summary="add syntatic sugar for string array query, and aggregate to sql">
       <created>1546876216024</created>
@@ -331,11 +392,18 @@
       <option name="project" value="LOCAL" />
       <updated>1546876216024</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="use Linq for parallel query">
+      <created>1546876776914</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1546876776914</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7018000" />
+    <option name="totallyTimeSpent" value="8054000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -350,19 +418,19 @@
     <frame x="1987" y="25" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25235197" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25235197" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33045357" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33045357" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="NuGet" order="7" weight="0.3297414" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32937366" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
@@ -385,7 +453,8 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add syntatic sugar for string array query, and aggregate to sql" />
-    <option name="LAST_COMMIT_MESSAGE" value="add syntatic sugar for string array query, and aggregate to sql" />
+    <MESSAGE value="use Linq for parallel query" />
+    <option name="LAST_COMMIT_MESSAGE" value="use Linq for parallel query" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -440,10 +509,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LinqWithArrayOfStrings/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+          <folding>
+            <marker date="1546876054169" expanded="false" signature="6:61" ph="..." />
+            <marker date="1546876054169" expanded="true" signature="95:1282" ph="{...}" />
+            <marker date="1546876054169" expanded="true" signature="115:1280" ph="{...}" />
+            <marker date="1546876054169" expanded="true" signature="173:229" ph="{...}" />
+            <marker date="1546876054169" expanded="true" signature="283:1175" ph="{...}" />
+            <marker date="1546876054169" expanded="true" signature="343:460" ph="{...}" />
+            <marker date="1546876054169" expanded="true" signature="487:618" ph="/* var query = names.Where(new Func&lt;string, bool&gt;(NameLongerThanFour)); ... */" />
+            <marker date="1546876054169" expanded="true" signature="837:898" ph="{...}" />
+            <marker date="1546876054169" expanded="true" signature="1104:1165" ph="{...}" />
+            <marker date="1546876054169" expanded="true" signature="1216:1274" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinqWithEFCore/MyLINQExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="66" column="1" selection-start-line="66" selection-start-column="1" selection-end-line="66" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LINQingInParallel/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+          <folding>
+            <marker date="1546876657049" expanded="true" signature="6:121" ph="..." />
+            <marker date="1546876657049" expanded="true" signature="150:655" ph="{...}" />
+            <marker date="1546876657049" expanded="true" signature="170:653" ph="{...}" />
+            <marker date="1546876657049" expanded="true" signature="216:647" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/LinqWithEFCore/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="94" column="13" selection-start-line="94" selection-start-column="13" selection-end-line="94" selection-end-column="13" />
+        <state relative-caret-position="143">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="29" selection-end-column="13" />
           <folding>
             <marker date="1546875907529" expanded="true" signature="6:101" ph="..." />
             <marker date="1546875907529" expanded="true" signature="127:4280" ph="{...}" />
@@ -467,34 +575,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LinqWithArrayOfStrings/Program.cs">
+    <entry file="file://$PROJECT_DIR$/LinqWithXML/settings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="36" column="16" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
-          <folding>
-            <marker date="1546876054169" expanded="false" signature="6:61" ph="..." />
-            <marker date="1546876054169" expanded="true" signature="95:1282" ph="{...}" />
-            <marker date="1546876054169" expanded="true" signature="115:1280" ph="{...}" />
-            <marker date="1546876054169" expanded="true" signature="173:229" ph="{...}" />
-            <marker date="1546876054169" expanded="true" signature="283:1175" ph="{...}" />
-            <marker date="1546876054169" expanded="true" signature="343:460" ph="{...}" />
-            <marker date="1546876054169" expanded="true" signature="487:618" ph="/* var query = names.Where(new Func&lt;string, bool&gt;(NameLongerThanFour)); ... */" />
-            <marker date="1546876054169" expanded="true" signature="837:898" ph="{...}" />
-            <marker date="1546876054169" expanded="true" signature="1104:1165" ph="{...}" />
-            <marker date="1546876054169" expanded="true" signature="1216:1274" ph="{...}" />
-          </folding>
+        <state relative-caret-position="75">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LINQingInParallel/Program.cs">
+    <entry file="file://$PROJECT_DIR$/LinqWithXML/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+        <state relative-caret-position="323">
+          <caret line="38" column="28" lean-forward="true" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
           <folding>
-            <marker date="1546876657049" expanded="true" signature="6:121" ph="..." />
-            <marker date="1546876657049" expanded="true" signature="150:655" ph="{...}" />
-            <marker date="1546876657049" expanded="true" signature="170:653" ph="{...}" />
-            <marker date="1546876657049" expanded="true" signature="216:647" ph="{...}" />
+            <marker date="1546877687020" expanded="true" signature="6:101" ph="..." />
+            <marker date="1546877687020" expanded="true" signature="124:1438" ph="{...}" />
+            <marker date="1546877687020" expanded="true" signature="144:1436" ph="{...}" />
+            <marker date="1546877687020" expanded="true" signature="190:728" ph="{...}" />
+            <marker date="1546877687020" expanded="true" signature="245:718" ph="{...}" />
+            <marker date="1546877687020" expanded="true" signature="771:1306" ph="{...}" />
+            <marker date="1546877687020" expanded="true" signature="995:1130" ph="{...}" />
+            <marker date="1546877687020" expanded="true" signature="1209:1295" ph="{...}" />
+            <marker date="1546877687020" expanded="true" signature="1355:1430" ph="{...}" />
           </folding>
         </state>
       </provider>
