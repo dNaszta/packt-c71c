@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqWithEFCore", "LinqWithE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacktPub", "PacktPub\PacktPub.csproj", "{0891A868-356E-460C-84F3-02D5136E5500}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQingInParallel", "LINQingInParallel\LINQingInParallel.csproj", "{782B951F-77DE-417E-AF96-606437FFBB9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{0891A868-356E-460C-84F3-02D5136E5500}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0891A868-356E-460C-84F3-02D5136E5500}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0891A868-356E-460C-84F3-02D5136E5500}.Release|Any CPU.Build.0 = Release|Any CPU
+		{782B951F-77DE-417E-AF96-606437FFBB9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{782B951F-77DE-417E-AF96-606437FFBB9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{782B951F-77DE-417E-AF96-606437FFBB9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{782B951F-77DE-417E-AF96-606437FFBB9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
