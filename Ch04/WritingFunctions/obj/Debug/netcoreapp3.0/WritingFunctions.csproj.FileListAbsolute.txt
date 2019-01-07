@@ -1,0 +1,12 @@
+/home/naszta/Projects/dotnet/packt-c71c/Ch04/WritingFunctions/bin/Debug/netcoreapp3.0/WritingFunctions
+/home/naszta/Projects/dotnet/packt-c71c/Ch04/WritingFunctions/bin/Debug/netcoreapp3.0/WritingFunctions.deps.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch04/WritingFunctions/bin/Debug/netcoreapp3.0/WritingFunctions.runtimeconfig.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch04/WritingFunctions/bin/Debug/netcoreapp3.0/WritingFunctions.runtimeconfig.dev.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch04/WritingFunctions/bin/Debug/netcoreapp3.0/WritingFunctions.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch04/WritingFunctions/bin/Debug/netcoreapp3.0/WritingFunctions.pdb
+/home/naszta/Projects/dotnet/packt-c71c/Ch04/WritingFunctions/obj/Debug/netcoreapp3.0/WritingFunctions.csprojAssemblyReference.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch04/WritingFunctions/obj/Debug/netcoreapp3.0/WritingFunctions.csproj.CoreCompileInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch04/WritingFunctions/obj/Debug/netcoreapp3.0/WritingFunctions.AssemblyInfoInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch04/WritingFunctions/obj/Debug/netcoreapp3.0/WritingFunctions.AssemblyInfo.cs
+/home/naszta/Projects/dotnet/packt-c71c/Ch04/WritingFunctions/obj/Debug/netcoreapp3.0/WritingFunctions.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch04/WritingFunctions/obj/Debug/netcoreapp3.0/WritingFunctions.pdb

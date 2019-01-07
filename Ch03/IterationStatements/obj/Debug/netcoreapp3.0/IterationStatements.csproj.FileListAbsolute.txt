@@ -1,0 +1,12 @@
+/home/naszta/Projects/dotnet/packt-c71c/Ch03/IterationStatements/bin/Debug/netcoreapp3.0/IterationStatements
+/home/naszta/Projects/dotnet/packt-c71c/Ch03/IterationStatements/bin/Debug/netcoreapp3.0/IterationStatements.deps.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch03/IterationStatements/bin/Debug/netcoreapp3.0/IterationStatements.runtimeconfig.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch03/IterationStatements/bin/Debug/netcoreapp3.0/IterationStatements.runtimeconfig.dev.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch03/IterationStatements/bin/Debug/netcoreapp3.0/IterationStatements.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch03/IterationStatements/bin/Debug/netcoreapp3.0/IterationStatements.pdb
+/home/naszta/Projects/dotnet/packt-c71c/Ch03/IterationStatements/obj/Debug/netcoreapp3.0/IterationStatements.csprojAssemblyReference.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch03/IterationStatements/obj/Debug/netcoreapp3.0/IterationStatements.csproj.CoreCompileInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch03/IterationStatements/obj/Debug/netcoreapp3.0/IterationStatements.AssemblyInfoInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch03/IterationStatements/obj/Debug/netcoreapp3.0/IterationStatements.AssemblyInfo.cs
+/home/naszta/Projects/dotnet/packt-c71c/Ch03/IterationStatements/obj/Debug/netcoreapp3.0/IterationStatements.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch03/IterationStatements/obj/Debug/netcoreapp3.0/IterationStatements.pdb

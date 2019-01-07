@@ -1,0 +1,11 @@
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithEncodings/bin/Debug/netcoreapp2.2/WorkingWithEncodings.deps.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithEncodings/bin/Debug/netcoreapp2.2/WorkingWithEncodings.runtimeconfig.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithEncodings/bin/Debug/netcoreapp2.2/WorkingWithEncodings.runtimeconfig.dev.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithEncodings/bin/Debug/netcoreapp2.2/WorkingWithEncodings.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithEncodings/bin/Debug/netcoreapp2.2/WorkingWithEncodings.pdb
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithEncodings/obj/Debug/netcoreapp2.2/WorkingWithEncodings.csprojAssemblyReference.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithEncodings/obj/Debug/netcoreapp2.2/WorkingWithEncodings.csproj.CoreCompileInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithEncodings/obj/Debug/netcoreapp2.2/WorkingWithEncodings.AssemblyInfoInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithEncodings/obj/Debug/netcoreapp2.2/WorkingWithEncodings.AssemblyInfo.cs
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithEncodings/obj/Debug/netcoreapp2.2/WorkingWithEncodings.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithEncodings/obj/Debug/netcoreapp2.2/WorkingWithEncodings.pdb

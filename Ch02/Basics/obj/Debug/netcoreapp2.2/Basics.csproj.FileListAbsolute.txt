@@ -1,0 +1,11 @@
+/home/naszta/Projects/dotnet/packt-c71c/Ch02/Basics/bin/Debug/netcoreapp2.2/Basics.deps.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch02/Basics/bin/Debug/netcoreapp2.2/Basics.runtimeconfig.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch02/Basics/bin/Debug/netcoreapp2.2/Basics.runtimeconfig.dev.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch02/Basics/bin/Debug/netcoreapp2.2/Basics.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch02/Basics/bin/Debug/netcoreapp2.2/Basics.pdb
+/home/naszta/Projects/dotnet/packt-c71c/Ch02/Basics/obj/Debug/netcoreapp2.2/Basics.csprojAssemblyReference.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch02/Basics/obj/Debug/netcoreapp2.2/Basics.csproj.CoreCompileInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch02/Basics/obj/Debug/netcoreapp2.2/Basics.AssemblyInfoInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch02/Basics/obj/Debug/netcoreapp2.2/Basics.AssemblyInfo.cs
+/home/naszta/Projects/dotnet/packt-c71c/Ch02/Basics/obj/Debug/netcoreapp2.2/Basics.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch02/Basics/obj/Debug/netcoreapp2.2/Basics.pdb

@@ -1,0 +1,12 @@
+/home/naszta/Projects/dotnet/packt-c71c/Ch04/Debugging/bin/Debug/netcoreapp3.0/Debugging
+/home/naszta/Projects/dotnet/packt-c71c/Ch04/Debugging/bin/Debug/netcoreapp3.0/Debugging.deps.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch04/Debugging/bin/Debug/netcoreapp3.0/Debugging.runtimeconfig.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch04/Debugging/bin/Debug/netcoreapp3.0/Debugging.runtimeconfig.dev.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch04/Debugging/bin/Debug/netcoreapp3.0/Debugging.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch04/Debugging/bin/Debug/netcoreapp3.0/Debugging.pdb
+/home/naszta/Projects/dotnet/packt-c71c/Ch04/Debugging/obj/Debug/netcoreapp3.0/Debugging.csprojAssemblyReference.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch04/Debugging/obj/Debug/netcoreapp3.0/Debugging.csproj.CoreCompileInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch04/Debugging/obj/Debug/netcoreapp3.0/Debugging.AssemblyInfoInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch04/Debugging/obj/Debug/netcoreapp3.0/Debugging.AssemblyInfo.cs
+/home/naszta/Projects/dotnet/packt-c71c/Ch04/Debugging/obj/Debug/netcoreapp3.0/Debugging.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch04/Debugging/obj/Debug/netcoreapp3.0/Debugging.pdb

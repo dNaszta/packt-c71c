@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqWithArrayOfStrings", "LinqWithArrayOfStrings\LinqWithArrayOfStrings.csproj", "{CF699075-8AD8-433D-A099-B59772D3DFE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqWithSets", "LinqWithSets\LinqWithSets.csproj", "{270FBA00-0995-4554-97EC-E5711C95B31F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqWithEFCore", "LinqWithEFCore\LinqWithEFCore.csproj", "{16758D8B-9AC3-4AFC-BE8B-BB1659ED3FE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacktPub", "PacktPub\PacktPub.csproj", "{0891A868-356E-460C-84F3-02D5136E5500}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF699075-8AD8-433D-A099-B59772D3DFE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF699075-8AD8-433D-A099-B59772D3DFE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF699075-8AD8-433D-A099-B59772D3DFE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF699075-8AD8-433D-A099-B59772D3DFE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{270FBA00-0995-4554-97EC-E5711C95B31F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{270FBA00-0995-4554-97EC-E5711C95B31F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{270FBA00-0995-4554-97EC-E5711C95B31F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{270FBA00-0995-4554-97EC-E5711C95B31F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16758D8B-9AC3-4AFC-BE8B-BB1659ED3FE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16758D8B-9AC3-4AFC-BE8B-BB1659ED3FE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16758D8B-9AC3-4AFC-BE8B-BB1659ED3FE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16758D8B-9AC3-4AFC-BE8B-BB1659ED3FE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0891A868-356E-460C-84F3-02D5136E5500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0891A868-356E-460C-84F3-02D5136E5500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0891A868-356E-460C-84F3-02D5136E5500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0891A868-356E-460C-84F3-02D5136E5500}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

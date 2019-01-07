@@ -1,0 +1,11 @@
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithNumbers/bin/Debug/netcoreapp2.2/WorkingWithNumbers.deps.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithNumbers/bin/Debug/netcoreapp2.2/WorkingWithNumbers.runtimeconfig.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithNumbers/bin/Debug/netcoreapp2.2/WorkingWithNumbers.runtimeconfig.dev.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithNumbers/bin/Debug/netcoreapp2.2/WorkingWithNumbers.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithNumbers/bin/Debug/netcoreapp2.2/WorkingWithNumbers.pdb
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithNumbers/obj/Debug/netcoreapp2.2/WorkingWithNumbers.csprojAssemblyReference.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithNumbers/obj/Debug/netcoreapp2.2/WorkingWithNumbers.csproj.CoreCompileInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithNumbers/obj/Debug/netcoreapp2.2/WorkingWithNumbers.AssemblyInfoInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithNumbers/obj/Debug/netcoreapp2.2/WorkingWithNumbers.AssemblyInfo.cs
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithNumbers/obj/Debug/netcoreapp2.2/WorkingWithNumbers.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithNumbers/obj/Debug/netcoreapp2.2/WorkingWithNumbers.pdb

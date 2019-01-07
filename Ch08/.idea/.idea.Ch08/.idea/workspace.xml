@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="faa69d3c-caf1-4b2e-8b28-e45b6d7b39a4" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WorkingWithRegularExpressions/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+              <folding>
+                <marker date="1546507075803" expanded="true" signature="6:67" ph="..." />
+                <marker date="1546507075803" expanded="true" signature="109:561" ph="{...}" />
+                <marker date="1546507075803" expanded="true" signature="129:559" ph="{...}" />
+                <marker date="1546507075803" expanded="true" signature="175:553" ph="{...}" />
+                <marker date="1546507075803" expanded="true" signature="359:430" ph="{...}" />
+                <marker date="1546507075803" expanded="true" signature="449:543" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WorkingWithLists/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="41" column="34" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
+              <folding>
+                <marker date="1546518196245" expanded="true" signature="6:113" ph="..." />
+                <marker date="1546518196245" expanded="true" signature="141:1986" ph="{...}" />
+                <marker date="1546518196245" expanded="true" signature="161:1984" ph="{...}" />
+                <marker date="1546518196245" expanded="true" signature="212:1149" ph="{...}" />
+                <marker date="1546518196245" expanded="true" signature="456:525" ph="{...}" />
+                <marker date="1546518196245" expanded="true" signature="806:875" ph="{...}" />
+                <marker date="1546518196245" expanded="true" signature="1044:1113" ph="{...}" />
+                <marker date="1546518196245" expanded="true" signature="1213:1847" ph="{...}" />
+                <marker date="1546518196245" expanded="true" signature="1581:1644" ph="{...}" />
+                <marker date="1546518196245" expanded="true" signature="1749:1812" ph="{...}" />
+                <marker date="1546518196245" expanded="true" signature="1896:1978" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WorkingWithNetworkResources/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+              <folding>
+                <marker date="1546523298222" expanded="true" signature="6:97" ph="..." />
+                <marker date="1546523298222" expanded="true" signature="136:1375" ph="{...}" />
+                <marker date="1546523298222" expanded="true" signature="156:1373" ph="{...}" />
+                <marker date="1546523298222" expanded="true" signature="202:1367" ph="{...}" />
+                <marker date="1546523298222" expanded="true" signature="351:447" ph="{...}" />
+                <marker date="1546523298222" expanded="true" signature="953:1023" ph="{...}" />
+                <marker date="1546523298222" expanded="true" signature="1239:1357" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Internationalization/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="48" lean-forward="true" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
+              <folding>
+                <marker date="1546524539228" expanded="true" signature="6:70" ph="..." />
+                <marker date="1546524539228" expanded="true" signature="102:1600" ph="{...}" />
+                <marker date="1546524539228" expanded="true" signature="122:1598" ph="{...}" />
+                <marker date="1546524539228" expanded="true" signature="168:1592" ph="{...}" />
+                <marker date="1546524539228" expanded="true" signature="866:1048" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WorkingWithDictionaries/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+              <folding>
+                <marker date="1546514340207" expanded="true" signature="6:76" ph="..." />
+                <marker date="1546514340207" expanded="true" signature="111:758" ph="{...}" />
+                <marker date="1546514340207" expanded="true" signature="131:756" ph="{...}" />
+                <marker date="1546514340207" expanded="true" signature="177:750" ph="{...}" />
+                <marker date="1546514340207" expanded="true" signature="579:667" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Length</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Internationalization/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WorkingWithNumbers/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WorkingWithRegularExpressions/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WorkingWithNetworkResources/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WorkingWithText/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WorkingWithDictionaries/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WorkingWithLists/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/WorkingWithNumbers/Program.cs" />
+        <option value="$PROJECT_DIR$/WorkingWithText/Program.cs" />
+        <option value="$PROJECT_DIR$/WorkingWithRegularExpressions/Program.cs" />
+        <option value="$PROJECT_DIR$/WorkingWithDictionaries/Program.cs" />
+        <option value="$PROJECT_DIR$/WorkingWithLists/Program.cs" />
+        <option value="$PROJECT_DIR$/WorkingWithNetworkResources/Program.cs" />
+        <option value="$PROJECT_DIR$/Internationalization/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="1853" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Ch08" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Internationalization">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/WorkingWithNumbers/bin/Debug/netcoreapp2.2/WorkingWithNumbers.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WorkingWithNumbers" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/WorkingWithNumbers/WorkingWithNumbers.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <browser url="http://localhost:5000" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Internationalization" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Internationalization/bin/Debug/netcoreapp2.2/Internationalization.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Internationalization" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Internationalization/Internationalization.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorkingWithDictionaries" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/WorkingWithDictionaries/bin/Debug/netcoreapp2.2/WorkingWithDictionaries.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WorkingWithDictionaries" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/WorkingWithDictionaries/WorkingWithDictionaries.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorkingWithLists" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/WorkingWithLists/bin/Debug/netcoreapp2.2/WorkingWithLists.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WorkingWithLists" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/WorkingWithLists/WorkingWithLists.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorkingWithNetworkResources" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/WorkingWithNetworkResources/bin/Debug/netcoreapp2.2/WorkingWithNetworkResources.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WorkingWithNetworkResources" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/WorkingWithNetworkResources/WorkingWithNetworkResources.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WorkingWithRegularExpressions" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/WorkingWithRegularExpressions/bin/Debug/netcoreapp2.2/WorkingWithRegularExpressions.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WorkingWithRegularExpressions" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/WorkingWithRegularExpressions/WorkingWithRegularExpressions.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.Internationalization" />
+        <item itemvalue=".NET Project.WorkingWithNetworkResources" />
+        <item itemvalue=".NET Project.WorkingWithLists" />
+        <item itemvalue=".NET Project.WorkingWithDictionaries" />
+        <item itemvalue=".NET Project.WorkingWithRegularExpressions" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="faa69d3c-caf1-4b2e-8b28-e45b6d7b39a4" name="Default Changelist" comment="" />
+      <created>1546504499396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546504499396</updated>
+      <workItem from="1546504502713" duration="7315000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7315000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-2" width="1920" height="1082" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Build" weight="0.32984293" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32984293" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/WorkingWithText/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="39" column="66" selection-start-line="39" selection-start-column="66" selection-end-line="39" selection-end-column="66" />
+          <folding>
+            <marker date="1546506497215" expanded="true" signature="6:42" ph="..." />
+            <marker date="1546506497215" expanded="true" signature="69:1653" ph="{...}" />
+            <marker date="1546506497215" expanded="true" signature="89:1651" ph="{...}" />
+            <marker date="1546506497215" expanded="true" signature="137:1549" ph="{...}" />
+            <marker date="1546506497215" expanded="true" signature="518:580" ph="{...}" />
+            <marker date="1546506497215" expanded="true" signature="1598:1645" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WorkingWithNumbers/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1546505529621" expanded="true" signature="6:51" ph="..." />
+            <marker date="1546505529621" expanded="true" signature="81:770" ph="{...}" />
+            <marker date="1546505529621" expanded="true" signature="101:768" ph="{...}" />
+            <marker date="1546505529621" expanded="true" signature="150:407" ph="{...}" />
+            <marker date="1546505529621" expanded="true" signature="453:635" ph="{...}" />
+            <marker date="1546505529621" expanded="true" signature="684:762" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WorkingWithRegularExpressions/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="45" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+          <folding>
+            <marker date="1546507075803" expanded="true" signature="6:67" ph="..." />
+            <marker date="1546507075803" expanded="true" signature="109:561" ph="{...}" />
+            <marker date="1546507075803" expanded="true" signature="129:559" ph="{...}" />
+            <marker date="1546507075803" expanded="true" signature="175:553" ph="{...}" />
+            <marker date="1546507075803" expanded="true" signature="359:430" ph="{...}" />
+            <marker date="1546507075803" expanded="true" signature="449:543" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WorkingWithDictionaries/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+          <folding>
+            <marker date="1546514340207" expanded="true" signature="6:76" ph="..." />
+            <marker date="1546514340207" expanded="true" signature="111:758" ph="{...}" />
+            <marker date="1546514340207" expanded="true" signature="131:756" ph="{...}" />
+            <marker date="1546514340207" expanded="true" signature="177:750" ph="{...}" />
+            <marker date="1546514340207" expanded="true" signature="579:667" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WorkingWithLists/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="41" column="34" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
+          <folding>
+            <marker date="1546518196245" expanded="true" signature="6:113" ph="..." />
+            <marker date="1546518196245" expanded="true" signature="141:1986" ph="{...}" />
+            <marker date="1546518196245" expanded="true" signature="161:1984" ph="{...}" />
+            <marker date="1546518196245" expanded="true" signature="212:1149" ph="{...}" />
+            <marker date="1546518196245" expanded="true" signature="456:525" ph="{...}" />
+            <marker date="1546518196245" expanded="true" signature="806:875" ph="{...}" />
+            <marker date="1546518196245" expanded="true" signature="1044:1113" ph="{...}" />
+            <marker date="1546518196245" expanded="true" signature="1213:1847" ph="{...}" />
+            <marker date="1546518196245" expanded="true" signature="1581:1644" ph="{...}" />
+            <marker date="1546518196245" expanded="true" signature="1749:1812" ph="{...}" />
+            <marker date="1546518196245" expanded="true" signature="1896:1978" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WorkingWithNetworkResources/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+          <folding>
+            <marker date="1546523298222" expanded="true" signature="6:97" ph="..." />
+            <marker date="1546523298222" expanded="true" signature="136:1375" ph="{...}" />
+            <marker date="1546523298222" expanded="true" signature="156:1373" ph="{...}" />
+            <marker date="1546523298222" expanded="true" signature="202:1367" ph="{...}" />
+            <marker date="1546523298222" expanded="true" signature="351:447" ph="{...}" />
+            <marker date="1546523298222" expanded="true" signature="953:1023" ph="{...}" />
+            <marker date="1546523298222" expanded="true" signature="1239:1357" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Internationalization/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="48" lean-forward="true" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
+          <folding>
+            <marker date="1546524539228" expanded="true" signature="6:70" ph="..." />
+            <marker date="1546524539228" expanded="true" signature="102:1600" ph="{...}" />
+            <marker date="1546524539228" expanded="true" signature="122:1598" ph="{...}" />
+            <marker date="1546524539228" expanded="true" signature="168:1592" ph="{...}" />
+            <marker date="1546524539228" expanded="true" signature="866:1048" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

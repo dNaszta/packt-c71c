@@ -1,0 +1,17 @@
+/home/naszta/Projects/dotnet/packt-c71c/Ch05/PeopleApp/bin/Debug/netcoreapp2.2/linux-x64/libhostpolicy.so
+/home/naszta/Projects/dotnet/packt-c71c/Ch05/PeopleApp/bin/Debug/netcoreapp2.2/linux-x64/libhostfxr.so
+/home/naszta/Projects/dotnet/packt-c71c/Ch05/PeopleApp/bin/Debug/netcoreapp2.2/linux-x64/PeopleApp
+/home/naszta/Projects/dotnet/packt-c71c/Ch05/PeopleApp/bin/Debug/netcoreapp2.2/linux-x64/PeopleApp.deps.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch05/PeopleApp/bin/Debug/netcoreapp2.2/linux-x64/PeopleApp.runtimeconfig.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch05/PeopleApp/bin/Debug/netcoreapp2.2/linux-x64/PeopleApp.runtimeconfig.dev.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch05/PeopleApp/bin/Debug/netcoreapp2.2/linux-x64/PeopleApp.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch05/PeopleApp/bin/Debug/netcoreapp2.2/linux-x64/PeopleApp.pdb
+/home/naszta/Projects/dotnet/packt-c71c/Ch05/PeopleApp/bin/Debug/netcoreapp2.2/linux-x64/PacktLibrary.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch05/PeopleApp/bin/Debug/netcoreapp2.2/linux-x64/PacktLibrary.pdb
+/home/naszta/Projects/dotnet/packt-c71c/Ch05/PeopleApp/obj/Debug/netcoreapp2.2/linux-x64/PeopleApp.csprojAssemblyReference.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch05/PeopleApp/obj/Debug/netcoreapp2.2/linux-x64/PeopleApp.csproj.CoreCompileInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch05/PeopleApp/obj/Debug/netcoreapp2.2/linux-x64/PeopleApp.AssemblyInfoInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch05/PeopleApp/obj/Debug/netcoreapp2.2/linux-x64/PeopleApp.AssemblyInfo.cs
+/home/naszta/Projects/dotnet/packt-c71c/Ch05/PeopleApp/obj/Debug/netcoreapp2.2/linux-x64/PeopleApp.csproj.CopyComplete
+/home/naszta/Projects/dotnet/packt-c71c/Ch05/PeopleApp/obj/Debug/netcoreapp2.2/linux-x64/PeopleApp.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch05/PeopleApp/obj/Debug/netcoreapp2.2/linux-x64/PeopleApp.pdb

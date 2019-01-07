@@ -1,0 +1,14 @@
+/home/naszta/Projects/dotnet/packt-c71c/Ch11/WorkingWithEFCore/bin/Debug/netcoreapp2.2/WorkingWithEFCore.deps.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch11/WorkingWithEFCore/bin/Debug/netcoreapp2.2/WorkingWithEFCore.runtimeconfig.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch11/WorkingWithEFCore/bin/Debug/netcoreapp2.2/WorkingWithEFCore.runtimeconfig.dev.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch11/WorkingWithEFCore/bin/Debug/netcoreapp2.2/WorkingWithEFCore.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch11/WorkingWithEFCore/bin/Debug/netcoreapp2.2/WorkingWithEFCore.pdb
+/home/naszta/Projects/dotnet/packt-c71c/Ch11/WorkingWithEFCore/bin/Debug/netcoreapp2.2/PacktPub.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch11/WorkingWithEFCore/bin/Debug/netcoreapp2.2/PacktPub.pdb
+/home/naszta/Projects/dotnet/packt-c71c/Ch11/WorkingWithEFCore/obj/Debug/netcoreapp2.2/WorkingWithEFCore.csprojAssemblyReference.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch11/WorkingWithEFCore/obj/Debug/netcoreapp2.2/WorkingWithEFCore.csproj.CoreCompileInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch11/WorkingWithEFCore/obj/Debug/netcoreapp2.2/WorkingWithEFCore.AssemblyInfoInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch11/WorkingWithEFCore/obj/Debug/netcoreapp2.2/WorkingWithEFCore.AssemblyInfo.cs
+/home/naszta/Projects/dotnet/packt-c71c/Ch11/WorkingWithEFCore/obj/Debug/netcoreapp2.2/WorkingWithEFCore.csproj.CopyComplete
+/home/naszta/Projects/dotnet/packt-c71c/Ch11/WorkingWithEFCore/obj/Debug/netcoreapp2.2/WorkingWithEFCore.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch11/WorkingWithEFCore/obj/Debug/netcoreapp2.2/WorkingWithEFCore.pdb

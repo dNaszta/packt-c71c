@@ -1,0 +1,11 @@
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithNetworkResources/bin/Debug/netcoreapp2.2/WorkingWithNetworkResources.deps.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithNetworkResources/bin/Debug/netcoreapp2.2/WorkingWithNetworkResources.runtimeconfig.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithNetworkResources/bin/Debug/netcoreapp2.2/WorkingWithNetworkResources.runtimeconfig.dev.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithNetworkResources/bin/Debug/netcoreapp2.2/WorkingWithNetworkResources.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithNetworkResources/bin/Debug/netcoreapp2.2/WorkingWithNetworkResources.pdb
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithNetworkResources/obj/Debug/netcoreapp2.2/WorkingWithNetworkResources.csprojAssemblyReference.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithNetworkResources/obj/Debug/netcoreapp2.2/WorkingWithNetworkResources.csproj.CoreCompileInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithNetworkResources/obj/Debug/netcoreapp2.2/WorkingWithNetworkResources.AssemblyInfoInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithNetworkResources/obj/Debug/netcoreapp2.2/WorkingWithNetworkResources.AssemblyInfo.cs
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithNetworkResources/obj/Debug/netcoreapp2.2/WorkingWithNetworkResources.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithNetworkResources/obj/Debug/netcoreapp2.2/WorkingWithNetworkResources.pdb

@@ -1,0 +1,51 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithSerialization/WorkingWithSerialization.csproj",
+    "projectName": "WorkingWithSerialization",
+    "projectPath": "/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithSerialization/WorkingWithSerialization.csproj",
+    "outputPath": "/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithSerialization/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "/home/naszta/Projects/dotnet/packt-c71c/Ch09/PacktLibrary/PacktLibrary.csproj": {
+            "projectPath": "/home/naszta/Projects/dotnet/packt-c71c/Ch09/PacktLibrary/PacktLibrary.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Newtonsoft.Json": {
+          "target": "Package",
+          "version": "[10.0.3, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

@@ -1,0 +1,14 @@
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithSerialization/bin/Debug/netcoreapp2.2/WorkingWithSerialization.deps.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithSerialization/bin/Debug/netcoreapp2.2/WorkingWithSerialization.runtimeconfig.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithSerialization/bin/Debug/netcoreapp2.2/WorkingWithSerialization.runtimeconfig.dev.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithSerialization/bin/Debug/netcoreapp2.2/WorkingWithSerialization.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithSerialization/bin/Debug/netcoreapp2.2/WorkingWithSerialization.pdb
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithSerialization/bin/Debug/netcoreapp2.2/PacktLibrary.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithSerialization/bin/Debug/netcoreapp2.2/PacktLibrary.pdb
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithSerialization/obj/Debug/netcoreapp2.2/WorkingWithSerialization.csprojAssemblyReference.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithSerialization/obj/Debug/netcoreapp2.2/WorkingWithSerialization.csproj.CoreCompileInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithSerialization/obj/Debug/netcoreapp2.2/WorkingWithSerialization.AssemblyInfoInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithSerialization/obj/Debug/netcoreapp2.2/WorkingWithSerialization.AssemblyInfo.cs
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithSerialization/obj/Debug/netcoreapp2.2/WorkingWithSerialization.csproj.CopyComplete
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithSerialization/obj/Debug/netcoreapp2.2/WorkingWithSerialization.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithSerialization/obj/Debug/netcoreapp2.2/WorkingWithSerialization.pdb

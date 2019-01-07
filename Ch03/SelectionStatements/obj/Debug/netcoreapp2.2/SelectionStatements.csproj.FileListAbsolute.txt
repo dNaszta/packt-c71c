@@ -1,0 +1,11 @@
+/home/naszta/Projects/dotnet/packt-c71c/Ch03/SelectionStatements/bin/Debug/netcoreapp2.2/SelectionStatements.deps.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch03/SelectionStatements/bin/Debug/netcoreapp2.2/SelectionStatements.runtimeconfig.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch03/SelectionStatements/bin/Debug/netcoreapp2.2/SelectionStatements.runtimeconfig.dev.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch03/SelectionStatements/bin/Debug/netcoreapp2.2/SelectionStatements.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch03/SelectionStatements/bin/Debug/netcoreapp2.2/SelectionStatements.pdb
+/home/naszta/Projects/dotnet/packt-c71c/Ch03/SelectionStatements/obj/Debug/netcoreapp2.2/SelectionStatements.csprojAssemblyReference.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch03/SelectionStatements/obj/Debug/netcoreapp2.2/SelectionStatements.csproj.CoreCompileInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch03/SelectionStatements/obj/Debug/netcoreapp2.2/SelectionStatements.AssemblyInfoInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch03/SelectionStatements/obj/Debug/netcoreapp2.2/SelectionStatements.AssemblyInfo.cs
+/home/naszta/Projects/dotnet/packt-c71c/Ch03/SelectionStatements/obj/Debug/netcoreapp2.2/SelectionStatements.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch03/SelectionStatements/obj/Debug/netcoreapp2.2/SelectionStatements.pdb

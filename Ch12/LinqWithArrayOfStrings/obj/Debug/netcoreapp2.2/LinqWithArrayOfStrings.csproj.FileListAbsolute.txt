@@ -1,0 +1,11 @@
+/home/naszta/Projects/dotnet/packt-c71c/Ch12/LinqWithArrayOfStrings/bin/Debug/netcoreapp2.2/LinqWithArrayOfStrings.deps.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch12/LinqWithArrayOfStrings/bin/Debug/netcoreapp2.2/LinqWithArrayOfStrings.runtimeconfig.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch12/LinqWithArrayOfStrings/bin/Debug/netcoreapp2.2/LinqWithArrayOfStrings.runtimeconfig.dev.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch12/LinqWithArrayOfStrings/bin/Debug/netcoreapp2.2/LinqWithArrayOfStrings.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch12/LinqWithArrayOfStrings/bin/Debug/netcoreapp2.2/LinqWithArrayOfStrings.pdb
+/home/naszta/Projects/dotnet/packt-c71c/Ch12/LinqWithArrayOfStrings/obj/Debug/netcoreapp2.2/LinqWithArrayOfStrings.csprojAssemblyReference.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch12/LinqWithArrayOfStrings/obj/Debug/netcoreapp2.2/LinqWithArrayOfStrings.csproj.CoreCompileInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch12/LinqWithArrayOfStrings/obj/Debug/netcoreapp2.2/LinqWithArrayOfStrings.AssemblyInfoInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch12/LinqWithArrayOfStrings/obj/Debug/netcoreapp2.2/LinqWithArrayOfStrings.AssemblyInfo.cs
+/home/naszta/Projects/dotnet/packt-c71c/Ch12/LinqWithArrayOfStrings/obj/Debug/netcoreapp2.2/LinqWithArrayOfStrings.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch12/LinqWithArrayOfStrings/obj/Debug/netcoreapp2.2/LinqWithArrayOfStrings.pdb

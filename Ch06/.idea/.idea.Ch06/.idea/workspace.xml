@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8726b2c2-ece2-4041-b977-290e534d7a51" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PacktLibrary/Person.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1245">
+              <caret line="83" column="46" selection-start-line="83" selection-start-column="46" selection-end-line="83" selection-end-column="46" />
+              <folding>
+                <marker date="1546435935703" expanded="true" signature="6:78" ph="..." />
+                <marker date="1546435935703" expanded="true" signature="101:2260" ph="{...}" />
+                <marker date="1546435935703" expanded="true" signature="158:2257" ph="{...}" />
+                <marker date="1546435935703" expanded="true" signature="370:470" ph="{...}" />
+                <marker date="1546435935703" expanded="true" signature="573:822" ph="{...}" />
+                <marker date="1546435935703" expanded="true" signature="630:703" ph="{...}" />
+                <marker date="1546435935703" expanded="true" signature="883:948" ph="{...}" />
+                <marker date="1546435935703" expanded="true" signature="1054:1113" ph="{...}" />
+                <marker date="1546435935703" expanded="true" signature="1212:1644" ph="{...}" />
+                <marker date="1546435935703" expanded="true" signature="1252:1396" ph="{...}" />
+                <marker date="1546435935703" expanded="true" signature="1489:1634" ph="{...}" />
+                <marker date="1546435935703" expanded="true" signature="1806:2140" ph="{...}" />
+                <marker date="1546435935703" expanded="true" signature="1878:2129" ph="{...}" />
+                <marker date="1546435935703" expanded="true" signature="1978:2114" ph="{...}" />
+                <marker date="1546435935703" expanded="true" signature="2184:2251" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PeopleApp/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="91" column="37" selection-start-line="91" selection-start-column="37" selection-end-line="91" selection-end-column="37" />
+              <folding>
+                <marker date="1546439972557" expanded="false" signature="6:60" ph="..." />
+                <marker date="1546439972557" expanded="true" signature="82:3115" ph="{...}" />
+                <marker date="1546439972557" expanded="true" signature="102:3113" ph="{...}" />
+                <marker date="1546439972557" expanded="true" signature="149:679" ph="{...}" />
+                <marker date="1546439972557" expanded="true" signature="202:397" ph="{...}" />
+                <marker date="1546439972557" expanded="true" signature="737:873" ph="{...}" />
+                <marker date="1546439972557" expanded="true" signature="790:863" ph="{...}" />
+                <marker date="1546439972557" expanded="true" signature="925:1919" ph="{...}" />
+                <marker date="1546439972557" expanded="true" signature="1995:2121" ph="{...}" />
+                <marker date="1546439972557" expanded="true" signature="2174:2433" ph="{...}" />
+                <marker date="1546439972557" expanded="true" signature="2476:2920" ph="{...}" />
+                <marker date="1546439972557" expanded="true" signature="2538:2644" ph="{...}" />
+                <marker date="1546439972557" expanded="true" signature="2969:3107" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PacktLibrary/Employee.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+              <folding>
+                <marker date="1546440081257" expanded="true" signature="6:42" ph="..." />
+                <marker date="1546440081257" expanded="true" signature="64:511" ph="{...}" />
+                <marker date="1546440081257" expanded="true" signature="101:509" ph="{...}" />
+                <marker date="1546440081257" expanded="true" signature="254:387" ph="{...}" />
+                <marker date="1546440081257" expanded="true" signature="430:503" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PacktLibrary/PersonException.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="103" selection-start-line="8" selection-start-column="103" selection-end-line="8" selection-end-column="103" />
+              <folding>
+                <marker date="1546440810579" expanded="true" signature="34:317" ph="{...}" />
+                <marker date="1546440810579" expanded="true" signature="81:315" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PacktLibrary/DisplacementVector.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <marker date="1546437303307" expanded="true" signature="19:469" ph="{...}" />
+                <marker date="1546437303307" expanded="true" signature="58:467" ph="{...}" />
+                <marker date="1546437303307" expanded="true" signature="171:243" ph="{...}" />
+                <marker date="1546437303307" expanded="true" signature="352:461" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PacktLibrary/PersonComparer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="31" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="31" />
+              <folding>
+                <marker date="1546436147231" expanded="true" signature="54:580" ph="{...}" />
+                <marker date="1546436147231" expanded="true" signature="108:578" ph="{...}" />
+                <marker date="1546436147231" expanded="true" signature="161:572" ph="{...}" />
+                <marker date="1546436147231" expanded="true" signature="347:474" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/PacktLibrary/Person.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PeopleApp/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PacktLibrary/PersonComparer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PacktLibrary/DisplacementVector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PacktLibrary/Employee.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PacktLibrary/PersonException.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/PacktLibrary/Person.cs" />
+        <option value="$PROJECT_DIR$/PacktLibrary/PersonComparer.cs" />
+        <option value="$PROJECT_DIR$/PacktLibrary/DisplacementVector.cs" />
+        <option value="$PROJECT_DIR$/PeopleApp/Program.cs" />
+        <option value="$PROJECT_DIR$/PacktLibrary/Employee.cs" />
+        <option value="$PROJECT_DIR$/PacktLibrary/PersonException.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="1853" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Ch06" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Ch06" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="PacktLibrary" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Ch06" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="PeopleApp" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/PeopleApp/PeopleApp.csproj" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/PeopleApp/bin/Debug/netcoreapp2.2/PeopleApp.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PeopleApp" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/PeopleApp/PeopleApp.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <browser url="http://localhost:5000" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8726b2c2-ece2-4041-b977-290e534d7a51" name="Default Changelist" comment="" />
+      <created>1546428049423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546428049423</updated>
+      <workItem from="1546428050742" duration="464000" />
+      <workItem from="1546428545799" duration="9112000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9576000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-2" width="1920" height="1082" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2524013" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.32984293" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32984293" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/PacktLibrary/PersonComparer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="31" />
+          <folding>
+            <marker date="1546436147231" expanded="true" signature="54:580" ph="{...}" />
+            <marker date="1546436147231" expanded="true" signature="108:578" ph="{...}" />
+            <marker date="1546436147231" expanded="true" signature="161:572" ph="{...}" />
+            <marker date="1546436147231" expanded="true" signature="347:474" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PacktLibrary/DisplacementVector.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <marker date="1546437303307" expanded="true" signature="19:469" ph="{...}" />
+            <marker date="1546437303307" expanded="true" signature="58:467" ph="{...}" />
+            <marker date="1546437303307" expanded="true" signature="171:243" ph="{...}" />
+            <marker date="1546437303307" expanded="true" signature="352:461" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PacktLibrary/Person.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1245">
+          <caret line="83" column="46" selection-start-line="83" selection-start-column="46" selection-end-line="83" selection-end-column="46" />
+          <folding>
+            <marker date="1546435935703" expanded="true" signature="6:78" ph="..." />
+            <marker date="1546435935703" expanded="true" signature="101:2260" ph="{...}" />
+            <marker date="1546435935703" expanded="true" signature="158:2257" ph="{...}" />
+            <marker date="1546435935703" expanded="true" signature="370:470" ph="{...}" />
+            <marker date="1546435935703" expanded="true" signature="573:822" ph="{...}" />
+            <marker date="1546435935703" expanded="true" signature="630:703" ph="{...}" />
+            <marker date="1546435935703" expanded="true" signature="883:948" ph="{...}" />
+            <marker date="1546435935703" expanded="true" signature="1054:1113" ph="{...}" />
+            <marker date="1546435935703" expanded="true" signature="1212:1644" ph="{...}" />
+            <marker date="1546435935703" expanded="true" signature="1252:1396" ph="{...}" />
+            <marker date="1546435935703" expanded="true" signature="1489:1634" ph="{...}" />
+            <marker date="1546435935703" expanded="true" signature="1806:2140" ph="{...}" />
+            <marker date="1546435935703" expanded="true" signature="1878:2129" ph="{...}" />
+            <marker date="1546435935703" expanded="true" signature="1978:2114" ph="{...}" />
+            <marker date="1546435935703" expanded="true" signature="2184:2251" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PeopleApp/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="91" column="37" selection-start-line="91" selection-start-column="37" selection-end-line="91" selection-end-column="37" />
+          <folding>
+            <marker date="1546439972557" expanded="false" signature="6:60" ph="..." />
+            <marker date="1546439972557" expanded="true" signature="82:3115" ph="{...}" />
+            <marker date="1546439972557" expanded="true" signature="102:3113" ph="{...}" />
+            <marker date="1546439972557" expanded="true" signature="149:679" ph="{...}" />
+            <marker date="1546439972557" expanded="true" signature="202:397" ph="{...}" />
+            <marker date="1546439972557" expanded="true" signature="737:873" ph="{...}" />
+            <marker date="1546439972557" expanded="true" signature="790:863" ph="{...}" />
+            <marker date="1546439972557" expanded="true" signature="925:1919" ph="{...}" />
+            <marker date="1546439972557" expanded="true" signature="1995:2121" ph="{...}" />
+            <marker date="1546439972557" expanded="true" signature="2174:2433" ph="{...}" />
+            <marker date="1546439972557" expanded="true" signature="2476:2920" ph="{...}" />
+            <marker date="1546439972557" expanded="true" signature="2538:2644" ph="{...}" />
+            <marker date="1546439972557" expanded="true" signature="2969:3107" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PacktLibrary/Employee.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+          <folding>
+            <marker date="1546440081257" expanded="true" signature="6:42" ph="..." />
+            <marker date="1546440081257" expanded="true" signature="64:511" ph="{...}" />
+            <marker date="1546440081257" expanded="true" signature="101:509" ph="{...}" />
+            <marker date="1546440081257" expanded="true" signature="254:387" ph="{...}" />
+            <marker date="1546440081257" expanded="true" signature="430:503" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PacktLibrary/PersonException.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="103" selection-start-line="8" selection-start-column="103" selection-end-line="8" selection-end-column="103" />
+          <folding>
+            <marker date="1546440810579" expanded="true" signature="34:317" ph="{...}" />
+            <marker date="1546440810579" expanded="true" signature="81:315" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

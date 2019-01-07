@@ -1,0 +1,47 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/naszta/Projects/dotnet/packt-c71c/Ch06/PeopleApp/PeopleApp.csproj",
+    "projectName": "PeopleApp",
+    "projectPath": "/home/naszta/Projects/dotnet/packt-c71c/Ch06/PeopleApp/PeopleApp.csproj",
+    "outputPath": "/home/naszta/Projects/dotnet/packt-c71c/Ch06/PeopleApp/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "/home/naszta/Projects/dotnet/packt-c71c/Ch06/PacktLibrary/PacktLibrary.csproj": {
+            "projectPath": "/home/naszta/Projects/dotnet/packt-c71c/Ch06/PacktLibrary/PacktLibrary.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

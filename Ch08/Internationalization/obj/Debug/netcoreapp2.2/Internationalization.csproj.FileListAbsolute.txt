@@ -1,0 +1,11 @@
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/Internationalization/bin/Debug/netcoreapp2.2/Internationalization.deps.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/Internationalization/bin/Debug/netcoreapp2.2/Internationalization.runtimeconfig.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/Internationalization/bin/Debug/netcoreapp2.2/Internationalization.runtimeconfig.dev.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/Internationalization/bin/Debug/netcoreapp2.2/Internationalization.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/Internationalization/bin/Debug/netcoreapp2.2/Internationalization.pdb
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/Internationalization/obj/Debug/netcoreapp2.2/Internationalization.csprojAssemblyReference.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/Internationalization/obj/Debug/netcoreapp2.2/Internationalization.csproj.CoreCompileInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/Internationalization/obj/Debug/netcoreapp2.2/Internationalization.AssemblyInfoInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/Internationalization/obj/Debug/netcoreapp2.2/Internationalization.AssemblyInfo.cs
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/Internationalization/obj/Debug/netcoreapp2.2/Internationalization.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/Internationalization/obj/Debug/netcoreapp2.2/Internationalization.pdb

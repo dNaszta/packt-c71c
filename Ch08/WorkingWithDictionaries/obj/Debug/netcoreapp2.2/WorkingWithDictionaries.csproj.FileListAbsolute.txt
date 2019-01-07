@@ -1,0 +1,11 @@
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithDictionaries/bin/Debug/netcoreapp2.2/WorkingWithDictionaries.deps.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithDictionaries/bin/Debug/netcoreapp2.2/WorkingWithDictionaries.runtimeconfig.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithDictionaries/bin/Debug/netcoreapp2.2/WorkingWithDictionaries.runtimeconfig.dev.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithDictionaries/bin/Debug/netcoreapp2.2/WorkingWithDictionaries.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithDictionaries/bin/Debug/netcoreapp2.2/WorkingWithDictionaries.pdb
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithDictionaries/obj/Debug/netcoreapp2.2/WorkingWithDictionaries.csprojAssemblyReference.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithDictionaries/obj/Debug/netcoreapp2.2/WorkingWithDictionaries.csproj.CoreCompileInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithDictionaries/obj/Debug/netcoreapp2.2/WorkingWithDictionaries.AssemblyInfoInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithDictionaries/obj/Debug/netcoreapp2.2/WorkingWithDictionaries.AssemblyInfo.cs
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithDictionaries/obj/Debug/netcoreapp2.2/WorkingWithDictionaries.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithDictionaries/obj/Debug/netcoreapp2.2/WorkingWithDictionaries.pdb

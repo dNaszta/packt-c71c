@@ -1,0 +1,11 @@
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithRegularExpressions/bin/Debug/netcoreapp2.2/WorkingWithRegularExpressions.deps.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithRegularExpressions/bin/Debug/netcoreapp2.2/WorkingWithRegularExpressions.runtimeconfig.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithRegularExpressions/bin/Debug/netcoreapp2.2/WorkingWithRegularExpressions.runtimeconfig.dev.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithRegularExpressions/bin/Debug/netcoreapp2.2/WorkingWithRegularExpressions.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithRegularExpressions/bin/Debug/netcoreapp2.2/WorkingWithRegularExpressions.pdb
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithRegularExpressions/obj/Debug/netcoreapp2.2/WorkingWithRegularExpressions.csprojAssemblyReference.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithRegularExpressions/obj/Debug/netcoreapp2.2/WorkingWithRegularExpressions.csproj.CoreCompileInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithRegularExpressions/obj/Debug/netcoreapp2.2/WorkingWithRegularExpressions.AssemblyInfoInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithRegularExpressions/obj/Debug/netcoreapp2.2/WorkingWithRegularExpressions.AssemblyInfo.cs
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithRegularExpressions/obj/Debug/netcoreapp2.2/WorkingWithRegularExpressions.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithRegularExpressions/obj/Debug/netcoreapp2.2/WorkingWithRegularExpressions.pdb

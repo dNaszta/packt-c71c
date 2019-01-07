@@ -1,0 +1,9 @@
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/PacktLibrary/bin/Debug/netstandard2.0/PacktLibrary.deps.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/PacktLibrary/bin/Debug/netstandard2.0/PacktLibrary.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/PacktLibrary/bin/Debug/netstandard2.0/PacktLibrary.pdb
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.csprojAssemblyReference.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.csproj.CoreCompileInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.AssemblyInfoInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.AssemblyInfo.cs
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/PacktLibrary/obj/Debug/netstandard2.0/PacktLibrary.pdb

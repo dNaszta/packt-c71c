@@ -1,0 +1,11 @@
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithFileSystems/bin/Debug/netcoreapp2.2/WorkingWithFileSystems.deps.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithFileSystems/bin/Debug/netcoreapp2.2/WorkingWithFileSystems.runtimeconfig.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithFileSystems/bin/Debug/netcoreapp2.2/WorkingWithFileSystems.runtimeconfig.dev.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithFileSystems/bin/Debug/netcoreapp2.2/WorkingWithFileSystems.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithFileSystems/bin/Debug/netcoreapp2.2/WorkingWithFileSystems.pdb
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithFileSystems/obj/Debug/netcoreapp2.2/WorkingWithFileSystems.csprojAssemblyReference.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithFileSystems/obj/Debug/netcoreapp2.2/WorkingWithFileSystems.csproj.CoreCompileInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithFileSystems/obj/Debug/netcoreapp2.2/WorkingWithFileSystems.AssemblyInfoInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithFileSystems/obj/Debug/netcoreapp2.2/WorkingWithFileSystems.AssemblyInfo.cs
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithFileSystems/obj/Debug/netcoreapp2.2/WorkingWithFileSystems.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithFileSystems/obj/Debug/netcoreapp2.2/WorkingWithFileSystems.pdb

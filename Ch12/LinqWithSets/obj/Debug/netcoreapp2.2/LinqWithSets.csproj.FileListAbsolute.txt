@@ -1,0 +1,11 @@
+/home/naszta/Projects/dotnet/packt-c71c/Ch12/LinqWithSets/bin/Debug/netcoreapp2.2/LinqWithSets.deps.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch12/LinqWithSets/bin/Debug/netcoreapp2.2/LinqWithSets.runtimeconfig.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch12/LinqWithSets/bin/Debug/netcoreapp2.2/LinqWithSets.runtimeconfig.dev.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch12/LinqWithSets/bin/Debug/netcoreapp2.2/LinqWithSets.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch12/LinqWithSets/bin/Debug/netcoreapp2.2/LinqWithSets.pdb
+/home/naszta/Projects/dotnet/packt-c71c/Ch12/LinqWithSets/obj/Debug/netcoreapp2.2/LinqWithSets.csprojAssemblyReference.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch12/LinqWithSets/obj/Debug/netcoreapp2.2/LinqWithSets.csproj.CoreCompileInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch12/LinqWithSets/obj/Debug/netcoreapp2.2/LinqWithSets.AssemblyInfoInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch12/LinqWithSets/obj/Debug/netcoreapp2.2/LinqWithSets.AssemblyInfo.cs
+/home/naszta/Projects/dotnet/packt-c71c/Ch12/LinqWithSets/obj/Debug/netcoreapp2.2/LinqWithSets.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch12/LinqWithSets/obj/Debug/netcoreapp2.2/LinqWithSets.pdb

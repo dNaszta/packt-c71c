@@ -1,0 +1,11 @@
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithLists/bin/Debug/netcoreapp2.2/WorkingWithLists.deps.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithLists/bin/Debug/netcoreapp2.2/WorkingWithLists.runtimeconfig.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithLists/bin/Debug/netcoreapp2.2/WorkingWithLists.runtimeconfig.dev.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithLists/bin/Debug/netcoreapp2.2/WorkingWithLists.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithLists/bin/Debug/netcoreapp2.2/WorkingWithLists.pdb
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithLists/obj/Debug/netcoreapp2.2/WorkingWithLists.csprojAssemblyReference.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithLists/obj/Debug/netcoreapp2.2/WorkingWithLists.csproj.CoreCompileInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithLists/obj/Debug/netcoreapp2.2/WorkingWithLists.AssemblyInfoInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithLists/obj/Debug/netcoreapp2.2/WorkingWithLists.AssemblyInfo.cs
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithLists/obj/Debug/netcoreapp2.2/WorkingWithLists.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch08/WorkingWithLists/obj/Debug/netcoreapp2.2/WorkingWithLists.pdb

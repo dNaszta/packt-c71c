@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithEFCore", "WorkingWithEFCore\WorkingWithEFCore.csproj", "{792196E1-BA77-4A88-93A4-964169BA8819}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacktPub", "PacktPub\PacktPub.csproj", "{8C8E2351-D089-42C2-A92E-C2C11698D31C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{792196E1-BA77-4A88-93A4-964169BA8819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{792196E1-BA77-4A88-93A4-964169BA8819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{792196E1-BA77-4A88-93A4-964169BA8819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{792196E1-BA77-4A88-93A4-964169BA8819}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C8E2351-D089-42C2-A92E-C2C11698D31C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C8E2351-D089-42C2-A92E-C2C11698D31C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C8E2351-D089-42C2-A92E-C2C11698D31C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C8E2351-D089-42C2-A92E-C2C11698D31C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

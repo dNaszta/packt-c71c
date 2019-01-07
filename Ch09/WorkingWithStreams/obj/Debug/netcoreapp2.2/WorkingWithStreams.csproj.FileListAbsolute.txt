@@ -1,0 +1,11 @@
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithStreams/bin/Debug/netcoreapp2.2/WorkingWithStreams.deps.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithStreams/bin/Debug/netcoreapp2.2/WorkingWithStreams.runtimeconfig.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithStreams/bin/Debug/netcoreapp2.2/WorkingWithStreams.runtimeconfig.dev.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithStreams/bin/Debug/netcoreapp2.2/WorkingWithStreams.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithStreams/bin/Debug/netcoreapp2.2/WorkingWithStreams.pdb
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithStreams/obj/Debug/netcoreapp2.2/WorkingWithStreams.csprojAssemblyReference.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithStreams/obj/Debug/netcoreapp2.2/WorkingWithStreams.csproj.CoreCompileInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithStreams/obj/Debug/netcoreapp2.2/WorkingWithStreams.AssemblyInfoInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithStreams/obj/Debug/netcoreapp2.2/WorkingWithStreams.AssemblyInfo.cs
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithStreams/obj/Debug/netcoreapp2.2/WorkingWithStreams.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch09/WorkingWithStreams/obj/Debug/netcoreapp2.2/WorkingWithStreams.pdb

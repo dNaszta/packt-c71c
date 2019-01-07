@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc5f12c8-3ded-4c59-8e08-4be0a691764c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LinqWithArrayOfStrings/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+              <folding>
+                <marker date="1546866951041" expanded="false" signature="6:61" ph="..." />
+                <marker date="1546866951041" expanded="true" signature="95:1015" ph="{...}" />
+                <marker date="1546866951041" expanded="true" signature="115:1013" ph="{...}" />
+                <marker date="1546866951041" expanded="true" signature="173:229" ph="{...}" />
+                <marker date="1546866951041" expanded="true" signature="283:908" ph="{...}" />
+                <marker date="1546866951041" expanded="true" signature="343:460" ph="{...}" />
+                <marker date="1546866951041" expanded="true" signature="487:618" ph="/* var query = names.Where(new Func&lt;string, bool&gt;(NameLongerThanFour)); ... */" />
+                <marker date="1546866951041" expanded="true" signature="837:898" ph="{...}" />
+                <marker date="1546866951041" expanded="true" signature="949:1007" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LinqWithSets/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+              <folding>
+                <marker date="1546871186547" expanded="false" signature="6:104" ph="..." />
+                <marker date="1546871186547" expanded="true" signature="159:1942" ph="{...}" />
+                <marker date="1546871186547" expanded="true" signature="179:1940" ph="{...}" />
+                <marker date="1546871186547" expanded="true" signature="283:515" ph="{...}" />
+                <marker date="1546871186547" expanded="true" signature="347:417" ph="{...}" />
+                <marker date="1546871186547" expanded="true" signature="557:1839" ph="{...}" />
+                <marker date="1546871186547" expanded="true" signature="1888:1934" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LinqWithEFCore/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="460">
+              <caret line="95" column="27" selection-start-line="95" selection-start-column="27" selection-end-line="95" selection-end-column="27" />
+              <folding>
+                <marker date="1546875018102" expanded="true" signature="6:101" ph="..." />
+                <marker date="1546875018102" expanded="true" signature="127:3580" ph="{...}" />
+                <marker date="1546875018102" expanded="true" signature="147:3578" ph="{...}" />
+                <marker date="1546875018102" expanded="true" signature="193:972" ph="{...}" />
+                <marker date="1546875018102" expanded="true" signature="248:962" ph="{...}" />
+                <marker date="1546875018102" expanded="true" signature="498:651" ph="{...}" />
+                <marker date="1546875018102" expanded="true" signature="778:919" ph="{...}" />
+                <marker date="1546875018102" expanded="true" signature="1019:2150" ph="{...}" />
+                <marker date="1546875018102" expanded="true" signature="1074:2140" ph="{...}" />
+                <marker date="1546875018102" expanded="true" signature="1991:2126" ph="{...}" />
+                <marker date="1546875018102" expanded="true" signature="2202:3421" ph="{...}" />
+                <marker date="1546875018102" expanded="true" signature="2257:3411" ph="{...}" />
+                <marker date="1546875018102" expanded="true" signature="3103:3397" ph="{...}" />
+                <marker date="1546875018102" expanded="true" signature="3273:3379" ph="{...}" />
+                <marker date="1546875018102" expanded="true" signature="3470:3572" ph="{...}" />
+                <marker date="1546875018102" expanded="true" signature="3493:3534" ph="/* useSelect(); ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PacktPub/Category.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="12" selection-end-column="26" />
+              <folding>
+                <marker date="1546871916205" expanded="true" signature="6:131" ph="..." />
+                <marker date="1546871916205" expanded="true" signature="152:854" ph="{...}" />
+                <marker date="1546871916205" expanded="true" signature="180:852" ph="{...}" />
+                <marker date="1546871916205" expanded="true" signature="634:846" ph="{...}" />
+                <marker date="1546871916205" expanded="true" signature="658:786" ph="/* to enable developers to add products to a Category we must ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PacktPub/Product.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="6" lean-forward="true" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+              <folding>
+                <marker date="1546872136448" expanded="true" signature="6:97" ph="..." />
+                <marker date="1546872136448" expanded="true" signature="121:811" ph="{...}" />
+                <marker date="1546872136448" expanded="true" signature="150:808" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/LinqWithSets/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LinqWithEFCore/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LinqWithArrayOfStrings/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PacktPub/Category.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PacktPub/Product.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/LinqWithArrayOfStrings/Program.cs" />
+        <option value="$PROJECT_DIR$/LinqWithSets/Program.cs" />
+        <option value="$PROJECT_DIR$/PacktPub/Category.cs" />
+        <option value="$PROJECT_DIR$/PacktPub/Product.cs" />
+        <option value="$PROJECT_DIR$/LinqWithEFCore/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1987" />
+    <option name="y" value="25" />
+    <option name="width" value="1853" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Ch12" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Ch12" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="LinqWithEFCore" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/PacktPub/PacktPub.csproj" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.LinqWithEFCore">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/LinqWithArrayOfStrings/bin/Debug/netcoreapp2.2/LinqWithArrayOfStrings.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinqWithArrayOfStrings" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/LinqWithArrayOfStrings/LinqWithArrayOfStrings.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <browser url="http://localhost:5000" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinqWithEFCore" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/LinqWithEFCore/bin/Debug/netcoreapp2.2/LinqWithEFCore.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinqWithEFCore" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/LinqWithEFCore/LinqWithEFCore.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinqWithSets" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/LinqWithSets/bin/Debug/netcoreapp2.2/LinqWithSets.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LinqWithSets" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/LinqWithSets/LinqWithSets.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.LinqWithEFCore" />
+        <item itemvalue=".NET Project.LinqWithSets" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc5f12c8-3ded-4c59-8e08-4be0a691764c" name="Default Changelist" comment="" />
+      <created>1546863501748</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546863501748</updated>
+      <workItem from="1546863503077" duration="3317000" />
+      <workItem from="1546871625514" duration="2177000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5494000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1987" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25235197" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3297414" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.3297414" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.3297414" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/LinqWithArrayOfStrings/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+          <folding>
+            <marker date="1546866951041" expanded="false" signature="6:61" ph="..." />
+            <marker date="1546866951041" expanded="true" signature="95:1015" ph="{...}" />
+            <marker date="1546866951041" expanded="true" signature="115:1013" ph="{...}" />
+            <marker date="1546866951041" expanded="true" signature="173:229" ph="{...}" />
+            <marker date="1546866951041" expanded="true" signature="283:908" ph="{...}" />
+            <marker date="1546866951041" expanded="true" signature="343:460" ph="{...}" />
+            <marker date="1546866951041" expanded="true" signature="487:618" ph="/* var query = names.Where(new Func&lt;string, bool&gt;(NameLongerThanFour)); ... */" />
+            <marker date="1546866951041" expanded="true" signature="837:898" ph="{...}" />
+            <marker date="1546866951041" expanded="true" signature="949:1007" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinqWithSets/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+          <folding>
+            <marker date="1546871186547" expanded="false" signature="6:104" ph="..." />
+            <marker date="1546871186547" expanded="true" signature="159:1942" ph="{...}" />
+            <marker date="1546871186547" expanded="true" signature="179:1940" ph="{...}" />
+            <marker date="1546871186547" expanded="true" signature="283:515" ph="{...}" />
+            <marker date="1546871186547" expanded="true" signature="347:417" ph="{...}" />
+            <marker date="1546871186547" expanded="true" signature="557:1839" ph="{...}" />
+            <marker date="1546871186547" expanded="true" signature="1888:1934" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PacktPub/Category.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="12" selection-end-column="26" />
+          <folding>
+            <marker date="1546871916205" expanded="true" signature="6:131" ph="..." />
+            <marker date="1546871916205" expanded="true" signature="152:854" ph="{...}" />
+            <marker date="1546871916205" expanded="true" signature="180:852" ph="{...}" />
+            <marker date="1546871916205" expanded="true" signature="634:846" ph="{...}" />
+            <marker date="1546871916205" expanded="true" signature="658:786" ph="/* to enable developers to add products to a Category we must ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PacktPub/Product.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="6" lean-forward="true" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+          <folding>
+            <marker date="1546872136448" expanded="true" signature="6:97" ph="..." />
+            <marker date="1546872136448" expanded="true" signature="121:811" ph="{...}" />
+            <marker date="1546872136448" expanded="true" signature="150:808" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LinqWithEFCore/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="95" column="27" selection-start-line="95" selection-start-column="27" selection-end-line="95" selection-end-column="27" />
+          <folding>
+            <marker date="1546875018102" expanded="true" signature="6:101" ph="..." />
+            <marker date="1546875018102" expanded="true" signature="127:3580" ph="{...}" />
+            <marker date="1546875018102" expanded="true" signature="147:3578" ph="{...}" />
+            <marker date="1546875018102" expanded="true" signature="193:972" ph="{...}" />
+            <marker date="1546875018102" expanded="true" signature="248:962" ph="{...}" />
+            <marker date="1546875018102" expanded="true" signature="498:651" ph="{...}" />
+            <marker date="1546875018102" expanded="true" signature="778:919" ph="{...}" />
+            <marker date="1546875018102" expanded="true" signature="1019:2150" ph="{...}" />
+            <marker date="1546875018102" expanded="true" signature="1074:2140" ph="{...}" />
+            <marker date="1546875018102" expanded="true" signature="1991:2126" ph="{...}" />
+            <marker date="1546875018102" expanded="true" signature="2202:3421" ph="{...}" />
+            <marker date="1546875018102" expanded="true" signature="2257:3411" ph="{...}" />
+            <marker date="1546875018102" expanded="true" signature="3103:3397" ph="{...}" />
+            <marker date="1546875018102" expanded="true" signature="3273:3379" ph="{...}" />
+            <marker date="1546875018102" expanded="true" signature="3470:3572" ph="{...}" />
+            <marker date="1546875018102" expanded="true" signature="3493:3534" ph="/* useSelect(); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+/home/naszta/Projects/dotnet/packt-c71c/Ch01/HelloCS/bin/Debug/netcoreapp3.0/HelloCS
+/home/naszta/Projects/dotnet/packt-c71c/Ch01/HelloCS/bin/Debug/netcoreapp3.0/HelloCS.deps.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch01/HelloCS/bin/Debug/netcoreapp3.0/HelloCS.runtimeconfig.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch01/HelloCS/bin/Debug/netcoreapp3.0/HelloCS.runtimeconfig.dev.json
+/home/naszta/Projects/dotnet/packt-c71c/Ch01/HelloCS/bin/Debug/netcoreapp3.0/HelloCS.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch01/HelloCS/bin/Debug/netcoreapp3.0/HelloCS.pdb
+/home/naszta/Projects/dotnet/packt-c71c/Ch01/HelloCS/obj/Debug/netcoreapp3.0/HelloCS.csprojAssemblyReference.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch01/HelloCS/obj/Debug/netcoreapp3.0/HelloCS.csproj.CoreCompileInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch01/HelloCS/obj/Debug/netcoreapp3.0/HelloCS.AssemblyInfoInputs.cache
+/home/naszta/Projects/dotnet/packt-c71c/Ch01/HelloCS/obj/Debug/netcoreapp3.0/HelloCS.AssemblyInfo.cs
+/home/naszta/Projects/dotnet/packt-c71c/Ch01/HelloCS/obj/Debug/netcoreapp3.0/HelloCS.dll
+/home/naszta/Projects/dotnet/packt-c71c/Ch01/HelloCS/obj/Debug/netcoreapp3.0/HelloCS.pdb
