@@ -30,6 +30,16 @@ namespace LinqWithArrayOfStrings
             {
                 WriteLine(item);
             }
+
+            query = from name in names
+                where name.Length > 4 
+                orderby name.Length, name
+                select name;
+            
+            foreach (string item in query)
+            {
+                WriteLine(item);
+            }
         }
 
         static void Main(string[] args)

@@ -88,12 +88,27 @@ namespace LinqWithEFCore
                 }
             }
         }
-        
+
+        private static void useAggregators()
+        {
+            using (var db = new Northwind())
+            {   
+                WriteLine("Products");
+                WriteLine($" Count: {db.Products.Count()}");
+                WriteLine($" Sum of units in stock: {db.Products.Sum(p => p.UnitsInStock):N0}");
+                WriteLine($" Sum of units on order: {db.Products.Sum(p => p.UnitsOnOrder):N0}");
+                WriteLine($" Average unit price: {db.Products.Average(p => p.UnitPrice):$#,##0.00}");
+                WriteLine($" Value of units in stock: {db.Products.Sum(p => p.UnitPrice * p.UnitsInStock):$#,##0.00}");
+                
+            }
+        }
+
         static void Main(string[] args)
         {
             // useSelect();
             // useJoin();
-            useGroupJoin();
+            // useGroupJoin();
+            useAggregators();
         }
     }
 }
