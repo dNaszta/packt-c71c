@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthwindWeb", "NorthwindWeb\NorthwindWeb.csproj", "{F9BFBEEE-04E9-4B90-BE9B-BB0A9B297557}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9BFBEEE-04E9-4B90-BE9B-BB0A9B297557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9BFBEEE-04E9-4B90-BE9B-BB0A9B297557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9BFBEEE-04E9-4B90-BE9B-BB0A9B297557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9BFBEEE-04E9-4B90-BE9B-BB0A9B297557}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
