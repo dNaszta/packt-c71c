@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthwindEntitiesLib", "Nor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthwindContextLib", "NorthwindContextLib\NorthwindContextLib.csproj", "{33EBA970-82BD-44C9-B1A7-E6A44765AD16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthwindMvc", "NorthwindMvc\NorthwindMvc.csproj", "{6DC53CAD-0A56-45B0-96CA-CC76CF858132}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{33EBA970-82BD-44C9-B1A7-E6A44765AD16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33EBA970-82BD-44C9-B1A7-E6A44765AD16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33EBA970-82BD-44C9-B1A7-E6A44765AD16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DC53CAD-0A56-45B0-96CA-CC76CF858132}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DC53CAD-0A56-45B0-96CA-CC76CF858132}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DC53CAD-0A56-45B0-96CA-CC76CF858132}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DC53CAD-0A56-45B0-96CA-CC76CF858132}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

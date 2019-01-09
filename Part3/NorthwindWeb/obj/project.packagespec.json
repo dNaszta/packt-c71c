@@ -15,6 +15,9 @@
     "frameworks": {
       "netcoreapp2.2": {
         "projectReferences": {
+          "/home/naszta/Projects/dotnet/packt-c71c/Part3/NorthwindContextLib/NorthwindContextLib.csproj": {
+            "projectPath": "/home/naszta/Projects/dotnet/packt-c71c/Part3/NorthwindContextLib/NorthwindContextLib.csproj"
+          },
           "/home/naszta/Projects/dotnet/packt-c71c/Part3/NorthwindEntitiesLib/NorthwindEntitiesLib.csproj": {
             "projectPath": "/home/naszta/Projects/dotnet/packt-c71c/Part3/NorthwindEntitiesLib/NorthwindEntitiesLib.csproj"
           }
