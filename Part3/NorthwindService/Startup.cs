@@ -32,7 +32,14 @@ namespace NorthwindService
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             services.AddDbContext<Northwind>(options => options.UseSqlite("Data Source=../Northwind.db"));
             services.AddScoped<ICustomerRepository, CustomerRepository>();
-            
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new Info
+                {
+                    Title = "Northwind Service API",
+                    Version = "v1"
+                });
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -50,6 +57,12 @@ namespace NorthwindService
 
             app.UseHttpsRedirection();
             app.UseMvc();
+            app.UseSwagger();
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", 
+                    "Northwind Service API V1");
+            });
         }
     }
 }
