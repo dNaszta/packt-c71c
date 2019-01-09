@@ -10,6 +10,7 @@
 
     <ItemGroup>
       <Folder Include="wwwroot" />
+      <ProjectReference Include="..\NorthwindEntitiesLib\NorthwindEntitiesLib.csproj" />
     </ItemGroup>
 
 </Project>

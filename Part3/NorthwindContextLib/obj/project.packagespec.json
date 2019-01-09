@@ -1,19 +1,19 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/naszta/Projects/dotnet/packt-c71c/Part3/NorthwindWeb/NorthwindWeb.csproj",
-    "projectName": "NorthwindWeb",
-    "projectPath": "/home/naszta/Projects/dotnet/packt-c71c/Part3/NorthwindWeb/NorthwindWeb.csproj",
-    "outputPath": "/home/naszta/Projects/dotnet/packt-c71c/Part3/NorthwindWeb/obj/",
+    "projectUniqueName": "/home/naszta/Projects/dotnet/packt-c71c/Part3/NorthwindContextLib/NorthwindContextLib.csproj",
+    "projectName": "NorthwindContextLib",
+    "projectPath": "/home/naszta/Projects/dotnet/packt-c71c/Part3/NorthwindContextLib/NorthwindContextLib.csproj",
+    "outputPath": "/home/naszta/Projects/dotnet/packt-c71c/Part3/NorthwindContextLib/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/share/dotnet/sdk/NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
-      "netcoreapp2.2"
+      "netstandard2.0"
     ],
     "frameworks": {
-      "netcoreapp2.2": {
+      "netstandard2.0": {
         "projectReferences": {
           "/home/naszta/Projects/dotnet/packt-c71c/Part3/NorthwindEntitiesLib/NorthwindEntitiesLib.csproj": {
             "projectPath": "/home/naszta/Projects/dotnet/packt-c71c/Part3/NorthwindEntitiesLib/NorthwindEntitiesLib.csproj"
@@ -28,16 +28,16 @@
     }
   },
   "frameworks": {
-    "netcoreapp2.2": {
+    "netstandard2.0": {
       "dependencies": {
-        "Microsoft.AspNetCore.All": {
+        "Microsoft.EntityFrameworkCore.Sqlite": {
           "target": "Package",
-          "version": "[2.2.0, )"
+          "version": "[2.2.1, )"
         },
-        "Microsoft.NETCore.App": {
+        "NETStandard.Library": {
           "suppressParent": "All",
           "target": "Package",
-          "version": "[2.2.0, )",
+          "version": "[2.0.3, )",
           "autoReferenced": true
         }
       },
